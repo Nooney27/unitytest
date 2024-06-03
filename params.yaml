@@ -2,7 +2,7 @@ track_info:
   centerline_file: "interpolated_traj.csv"
   track_width: 10.0
   texture_blend_factor: 0.9
-  obs_density: 0.3
+  obs_density: 0.0
   vegetation_density: 0.2
   offtrack_roughness: 0.0004
   scale: 1.0

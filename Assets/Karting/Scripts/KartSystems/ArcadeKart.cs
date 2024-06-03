@@ -91,11 +91,11 @@ namespace KartGame.KartSystems
         public float AirPercent    { get; private set; }
         public float GroundPercent { get; private set; }
         public bool capture_trajectory = false;
-        public float k_speed = 5.0f;
+        public float k_speed = 10.0f;
         private List<(float, float, float, float, float, float, float, float)> observations = new List<(float, float, float, float, float, float, float, float)>();
         ArcadeKart.Stats baseStats = new ArcadeKart.Stats
         {
-            TopSpeed            = 3.0f,
+            TopSpeed            = 15.0f,
             Acceleration        = 5.0f,
             AccelerationCurve   = 2.0f,
             Braking             = 10f,
