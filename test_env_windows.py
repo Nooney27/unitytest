@@ -5,7 +5,7 @@ import tqdm
 
 steer_cmd = 0.1
 throttle_cmd = 1.5
-env = UnityEnvironment(file_name="env-build/uneven-terrain-driver", seed=1, side_channels=[],worker_id=0,log_folder='logs/')#,no_graphics=True)
+env = UnityEnvironment(file_name="env-build/uneven-terrain-driver", seed=1, side_channels=[],worker_id=0)# log_folder='logs/')#,no_graphics=True)
 env.reset()
 
 behavior_name = list(env.behavior_specs)[0]

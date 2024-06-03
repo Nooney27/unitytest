@@ -18,7 +18,7 @@ XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
 The tree grass Variant must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
-UnloadTime: 0.737200 ms
+UnloadTime: 0.714500 ms
 Delta time: 0.02
 Deserialized parameters from YAML file: params.yaml
 Heightmap image loaded: heightmap.png
@@ -33,62 +33,1114 @@ Here 1 before
 Here 1
 Episode: 1
 Something wrong1!!
-10.21303
+10.21302
 Something wrong2!!
-0.6836988
+0.683698
 Something wrong3!!
 (1.15, 0.38, 10.18)
 Something wrong1!!
-10.74401
+10.74397
 Something wrong2!!
-0.719169
+0.7191668
 Something wrong3!!
 (1.27, 0.07, 10.71)
 Something wrong1!!
-11.13155
+11.13157
 Something wrong2!!
-0.7458689
+0.7458706
 Something wrong3!!
 (1.42, 0.31, 11.09)
 Something wrong1!!
-11.55627
+11.55626
 Something wrong2!!
-0.774557
+0.7745568
 Something wrong3!!
 (1.61, 0.09, 11.51)
 Something wrong1!!
-11.93264
+11.93255
 Something wrong2!!
-0.80048
+0.8004743
 Something wrong3!!
 (1.78, -0.06, 11.87)
 Something wrong1!!
-12.16653
+12.16655
 Something wrong2!!
-0.8190982
+0.8190984
 Something wrong3!!
 (1.89, 0.92, 12.11)
 Something wrong1!!
-12.52561
+12.52558
 Something wrong2!!
-0.842236
+0.8422336
 Something wrong3!!
 (2.04, -0.35, 12.46)
 Something wrong1!!
-12.69836
+12.69831
 Something wrong2!!
-0.8556827
+0.855676
 Something wrong3!!
-(2.11, 0.71, 12.64)
+(2.11, 0.70, 12.64)
 Something wrong1!!
-12.98297
+12.98291
 Something wrong2!!
-0.8748854
+0.8748797
 Something wrong3!!
 (2.35, -0.39, 12.90)
 Something wrong1!!
-13.07412
+13.07409
 Something wrong2!!
-0.8827903
+0.8827869
 Something wrong3!!
 (2.52, 0.57, 12.99)
+Something wrong1!!
+13.29919
+Something wrong2!!
+0.8987811
+Something wrong3!!
+(2.68, -0.40, 13.21)
+Something wrong1!!
+13.48426
+Something wrong2!!
+0.9121743
+Something wrong3!!
+(2.85, -0.03, 13.38)
+Something wrong1!!
+13.67234
+Something wrong2!!
+0.9278806
+Something wrong3!!
+(3.02, -0.75, 13.57)
+Something wrong1!!
+13.83927
+Something wrong2!!
+0.9400209
+Something wrong3!!
+(3.24, -0.50, 13.72)
+Something wrong1!!
+13.98116
+Something wrong2!!
+0.9540715
+Something wrong3!!
+(3.40, -1.15, 13.85)
+Something wrong1!!
+14.07553
+Something wrong2!!
+0.9596683
+Something wrong3!!
+(3.59, -0.46, 13.93)
+Something wrong1!!
+14.11235
+Something wrong2!!
+0.9676797
+Something wrong3!!
+(3.70, -1.32, 13.97)
+Something wrong1!!
+14.18705
+Something wrong2!!
+0.974726
+Something wrong3!!
+(3.86, -1.30, 14.04)
+Something wrong1!!
+14.27634
+Something wrong2!!
+0.9834514
+Something wrong3!!
+(4.00, -1.35, 14.14)
+Something wrong1!!
+14.30266
+Something wrong2!!
+0.9844561
+Something wrong3!!
+(4.16, -0.68, 14.15)
+Something wrong1!!
+14.29872
+Something wrong2!!
+0.9891769
+Something wrong3!!
+(4.25, -1.10, 14.17)
+Something wrong1!!
+14.3184
+Something wrong2!!
+0.9935095
+Something wrong3!!
+(4.44, -1.04, 14.19)
+Something wrong1!!
+14.33214
+Something wrong2!!
+0.9966119
+Something wrong3!!
+(4.55, -0.68, 14.22)
+Something wrong1!!
+14.31127
+Something wrong2!!
+0.9988744
+Something wrong3!!
+(4.72, -0.76, 14.20)
+Something wrong1!!
+14.19783
+Something wrong2!!
+0.994238
+Something wrong3!!
+(4.86, 0.75, 14.08)
+Something wrong1!!
+14.18791
+Something wrong2!!
+0.9974024
+Something wrong3!!
+(5.00, -0.43, 14.10)
+Something wrong1!!
+14.16905
+Something wrong2!!
+0.9999902
+Something wrong3!!
+(5.14, 0.75, 14.07)
+Something wrong1!!
+14.12874
+Something wrong2!!
+1
+Something wrong3!!
+(5.35, 0.32, 14.01)
+Something wrong1!!
+14.05635
+Something wrong2!!
+1
+Something wrong3!!
+(5.55, 1.01, 13.90)
+Something wrong1!!
+14.02846
+Something wrong2!!
+1
+Something wrong3!!
+(5.74, 0.56, 13.85)
+Something wrong1!!
+13.94114
+Something wrong2!!
+1
+Something wrong3!!
+(5.89, 1.21, 13.74)
+Something wrong1!!
+13.90438
+Something wrong2!!
+1
+Something wrong3!!
+(6.05, 0.83, 13.70)
+Something wrong1!!
+13.79246
+Something wrong2!!
+1
+Something wrong3!!
+(6.16, 1.56, 13.59)
+Something wrong1!!
+13.77547
+Something wrong2!!
+1
+Something wrong3!!
+(6.37, 0.86, 13.55)
+Something wrong1!!
+13.66255
+Something wrong2!!
+0.9987624
+Something wrong3!!
+(6.48, 1.34, 13.44)
+Something wrong1!!
+13.63539
+Something wrong2!!
+1
+Something wrong3!!
+(6.70, 0.99, 13.38)
+Something wrong1!!
+13.58467
+Something wrong2!!
+0.9999999
+Something wrong3!!
+(6.86, 0.64, 13.32)
+Something wrong1!!
+13.5226
+Something wrong2!!
+1
+Something wrong3!!
+(7.03, 0.58, 13.24)
+Something wrong1!!
+13.47757
+Something wrong2!!
+0.9998268
+Something wrong3!!
+(7.16, -0.12, 13.18)
+Something wrong1!!
+13.40389
+Something wrong2!!
+1
+Something wrong3!!
+(7.29, -0.02, 13.11)
+Something wrong1!!
+13.31899
+Something wrong2!!
+1.00186
+Something wrong3!!
+(7.44, -1.08, 13.01)
+Something wrong1!!
+13.22974
+Something wrong2!!
+1
+Something wrong3!!
+(7.60, -1.00, 12.89)
+Something wrong1!!
+13.14379
+Something wrong2!!
+1.001818
+Something wrong3!!
+(7.74, -1.43, 12.80)
+Something wrong1!!
+13.08866
+Something wrong2!!
+1
+Something wrong3!!
+(7.82, -0.73, 12.78)
+Something wrong1!!
+12.94784
+Something wrong2!!
+1.000093
+Something wrong3!!
+(7.87, -1.57, 12.67)
+Something wrong1!!
+12.92516
+Something wrong2!!
+0.9999279
+Something wrong3!!
+(8.04, -0.85, 12.64)
+Something wrong1!!
+12.82781
+Something wrong2!!
+0.9994907
+Something wrong3!!
+(8.10, -0.80, 12.59)
+Something wrong1!!
+12.75561
+Something wrong2!!
+1
+Something wrong3!!
+(8.26, -0.54, 12.51)
+Something wrong1!!
+12.66591
+Something wrong2!!
+0.9999096
+Something wrong3!!
+(8.35, -0.67, 12.44)
+Something wrong1!!
+12.59758
+Something wrong2!!
+1
+Something wrong3!!
+(8.50, -0.31, 12.36)
+Something wrong1!!
+12.49852
+Something wrong2!!
+0.9999999
+Something wrong3!!
+(8.65, -0.28, 12.25)
+Something wrong1!!
+12.41513
+Something wrong2!!
+1
+Something wrong3!!
+(8.76, 0.81, 12.15)
+Something wrong1!!
+12.33883
+Something wrong2!!
+1
+Something wrong3!!
+(8.92, -0.27, 12.06)
+Something wrong1!!
+12.22252
+Something wrong2!!
+0.9999999
+Something wrong3!!
+(9.03, 1.14, 11.92)
+Something wrong1!!
+12.16176
+Something wrong2!!
+1.000214
+Something wrong3!!
+(9.19, 0.34, 11.85)
+Something wrong1!!
+12.0674
+Something wrong2!!
+1.000815
+Something wrong3!!
+(9.37, 0.67, 11.71)
+Something wrong1!!
+11.95569
+Something wrong2!!
+1
+Something wrong3!!
+(9.48, 0.88, 11.59)
+Something wrong1!!
+11.8595
+Something wrong2!!
+0.9999999
+Something wrong3!!
+(9.63, 0.74, 11.48)
+Something wrong1!!
+11.76275
+Something wrong2!!
+1
+Something wrong3!!
+(9.78, 0.35, 11.37)
+Something wrong1!!
+11.64068
+Something wrong2!!
+1
+Something wrong3!!
+(9.90, 0.83, 11.24)
+Something wrong1!!
+11.55184
+Something wrong2!!
+1
+Something wrong3!!
+(10.04, 0.00, 11.14)
+Something wrong1!!
+11.43619
+Something wrong2!!
+0.9991406
+Something wrong3!!
+(10.16, 0.55, 11.00)
+Something wrong1!!
+11.35071
+Something wrong2!!
+1
+Something wrong3!!
+(10.31, 0.22, 10.89)
+Something wrong1!!
+11.25252
+Something wrong2!!
+1
+Something wrong3!!
+(10.43, -0.24, 10.78)
+Something wrong1!!
+11.15453
+Something wrong2!!
+1
+Something wrong3!!
+(10.53, 0.01, 10.69)
+Something wrong1!!
+11.02992
+Something wrong2!!
+1
+Something wrong3!!
+(10.66, -0.49, 10.55)
+Something wrong1!!
+10.94067
+Something wrong2!!
+1
+Something wrong3!!
+(10.69, -0.38, 10.52)
+Something wrong1!!
+10.83574
+Something wrong2!!
+1
+Something wrong3!!
+(10.75, 0.06, 10.46)
+Something wrong1!!
+10.70403
+Something wrong2!!
+1
+Something wrong3!!
+(10.85, -0.44, 10.35)
+Something wrong1!!
+-10.05218
+Something wrong2!!
+1.026422
+Something wrong3!!
+(12.98, -0.38, -8.27)
+Something wrong1!!
+-10.88205
+Something wrong2!!
+1.066372
+Something wrong3!!
+(13.55, 1.37, -8.39)
+Something wrong1!!
+-10.99552
+Something wrong2!!
+1.045411
+Something wrong3!!
+(13.10, 1.64, -8.46)
+Something wrong1!!
+-11.2428
+Something wrong2!!
+1.043006
+Something wrong3!!
+(13.10, 1.24, -8.46)
+Something wrong1!!
+-11.4793
+Something wrong2!!
+1.041252
+Something wrong3!!
+(13.10, 0.85, -8.46)
+Something wrong1!!
+-11.70539
+Something wrong2!!
+1.040154
+Something wrong3!!
+(13.10, 0.46, -8.46)
+Something wrong1!!
+-11.92142
+Something wrong2!!
+1.039713
+Something wrong3!!
+(13.10, 0.07, -8.46)
+Something wrong1!!
+-12.12771
+Something wrong2!!
+1.039931
+Something wrong3!!
+(13.10, -0.33, -8.46)
+Something wrong1!!
+-12.32462
+Something wrong2!!
+1.040806
+Something wrong3!!
+(13.10, -0.72, -8.46)
+Something wrong1!!
+-12.51245
+Something wrong2!!
+1.042337
+Something wrong3!!
+(13.10, -1.11, -8.46)
+Something wrong1!!
+-12.69151
+Something wrong2!!
+1.044521
+Something wrong3!!
+(13.10, -1.50, -8.46)
+Something wrong1!!
+-12.86217
+Something wrong2!!
+1.047354
+Something wrong3!!
+(13.10, -1.90, -8.46)
+Something wrong1!!
+-12.88982
+Something wrong2!!
+1.035954
+Something wrong3!!
+(12.85, -1.38, -8.63)
+Something wrong1!!
+-13.03442
+Something wrong2!!
+1.038545
+Something wrong3!!
+(12.70, -1.53, -8.88)
+Something wrong1!!
+-13.70441
+Something wrong2!!
+1.072558
+Something wrong3!!
+(12.61, -0.96, -9.95)
+Something wrong1!!
+-13.15226
+Something wrong2!!
+1.027579
+Something wrong3!!
+(11.95, -0.31, -9.73)
+Something wrong1!!
+-13.15984
+Something wrong2!!
+1.023178
+Something wrong3!!
+(11.78, -0.55, -9.83)
+Something wrong1!!
+-13.62772
+Something wrong2!!
+1.046514
+Something wrong3!!
+(11.77, -0.04, -10.39)
+Something wrong1!!
+-13.07856
+Something wrong2!!
+1.005092
+Something wrong3!!
+(11.24, 0.62, -10.03)
+Something wrong1!!
+-13.59486
+Something wrong2!!
+1.032569
+Something wrong3!!
+(11.53, -0.55, -10.33)
+Something wrong1!!
+-13.68372
+Something wrong2!!
+1.033832
+Something wrong3!!
+(11.53, -0.94, -10.33)
+Something wrong1!!
+-12.03572
+Something wrong2!!
+0.9349116
+Something wrong3!!
+(10.13, 2.20, -9.45)
+Something wrong1!!
+-12.23532
+Something wrong2!!
+0.9608299
+Something wrong3!!
+(9.61, -1.15, -10.68)
+Something wrong1!!
+-12.02628
+Something wrong2!!
+0.9632627
+Something wrong3!!
+(9.61, -1.54, -10.68)
+Something wrong1!!
+-12.50509
+Something wrong2!!
+1.019195
+Something wrong3!!
+(9.71, 2.00, -11.64)
+Something wrong1!!
+-12.40754
+Something wrong2!!
+1.016112
+Something wrong3!!
+(9.71, 1.60, -11.64)
+Something wrong1!!
+-12.3105
+Something wrong2!!
+1.013694
+Something wrong3!!
+(9.71, 1.21, -11.64)
+Something wrong1!!
+-12.21403
+Something wrong2!!
+1.011947
+Something wrong3!!
+(9.71, 0.82, -11.64)
+Something wrong1!!
+-12.11818
+Something wrong2!!
+1.010874
+Something wrong3!!
+(9.71, 0.43, -11.64)
+Something wrong1!!
+-12.02303
+Something wrong2!!
+1.010477
+Something wrong3!!
+(9.71, 0.03, -11.64)
+Something wrong1!!
+-11.9286
+Something wrong2!!
+1.010758
+Something wrong3!!
+(9.71, -0.36, -11.64)
+Something wrong1!!
+-11.83496
+Something wrong2!!
+1.011715
+Something wrong3!!
+(9.71, -0.75, -11.64)
+Something wrong1!!
+-11.74213
+Something wrong2!!
+1.013347
+Something wrong3!!
+(9.71, -1.14, -11.64)
+Something wrong1!!
+-11.65017
+Something wrong2!!
+1.01565
+Something wrong3!!
+(9.71, -1.54, -11.64)
+Something wrong1!!
+-11.55909
+Something wrong2!!
+1.01862
+Something wrong3!!
+(9.71, -1.93, -11.64)
+Something wrong1!!
+-11.46894
+Something wrong2!!
+1.022251
+Something wrong3!!
+(9.71, -2.32, -11.64)
+Something wrong1!!
+-11.3276
+Something wrong2!!
+1.018912
+Something wrong3!!
+(9.54, -2.48, -11.68)
+Something wrong1!!
+-11.03612
+Something wrong2!!
+0.9928395
+Something wrong3!!
+(9.10, -1.92, -11.63)
+Something wrong1!!
+-10.92051
+Something wrong2!!
+0.9730455
+Something wrong3!!
+(8.82, -1.58, -11.52)
+Something wrong1!!
+-11.35872
+Something wrong2!!
+0.9919996
+Something wrong3!!
+(8.95, -1.45, -11.80)
+Something wrong1!!
+-11.40027
+Something wrong2!!
+0.9796247
+Something wrong3!!
+(9.32, 2.77, -11.02)
+Something wrong1!!
+-11.51216
+Something wrong2!!
+0.974445
+Something wrong3!!
+(8.94, 3.25, -11.09)
+Something wrong1!!
+-11.67944
+Something wrong2!!
+0.9814364
+Something wrong3!!
+(8.80, 3.65, -11.23)
+Something wrong1!!
+-11.7721
+Something wrong2!!
+0.9752778
+Something wrong3!!
+(8.80, 3.26, -11.23)
+Something wrong1!!
+-11.86132
+Something wrong2!!
+0.9697861
+Something wrong3!!
+(8.80, 2.87, -11.23)
+Something wrong1!!
+-11.94724
+Something wrong2!!
+0.9649726
+Something wrong3!!
+(8.80, 2.47, -11.23)
+Something wrong1!!
+-12.02997
+Something wrong2!!
+0.9608473
+Something wrong3!!
+(8.80, 2.08, -11.23)
+Something wrong1!!
+-12.10963
+Something wrong2!!
+0.9574194
+Something wrong3!!
+(8.80, 1.69, -11.23)
+Something wrong1!!
+-12.18632
+Something wrong2!!
+0.9546962
+Something wrong3!!
+(8.80, 1.30, -11.23)
+Something wrong1!!
+-12.26017
+Something wrong2!!
+0.9526838
+Something wrong3!!
+(8.80, 0.90, -11.23)
+Something wrong1!!
+-12.33127
+Something wrong2!!
+0.9513867
+Something wrong3!!
+(8.80, 0.51, -11.23)
+Something wrong1!!
+-12.39972
+Something wrong2!!
+0.950808
+Something wrong3!!
+(8.80, 0.12, -11.23)
+Something wrong1!!
+-12.46562
+Something wrong2!!
+0.9509488
+Something wrong3!!
+(8.80, -0.27, -11.23)
+Something wrong1!!
+-12.52906
+Something wrong2!!
+0.9518088
+Something wrong3!!
+(8.80, -0.67, -11.23)
+Something wrong1!!
+-12.59014
+Something wrong2!!
+0.9533861
+Something wrong3!!
+(8.80, -1.06, -11.23)
+Something wrong1!!
+-12.64893
+Something wrong2!!
+0.9556772
+Something wrong3!!
+(8.80, -1.45, -11.23)
+Something wrong1!!
+-12.70554
+Something wrong2!!
+0.9586769
+Something wrong3!!
+(8.80, -1.84, -11.23)
+Something wrong1!!
+-12.76003
+Something wrong2!!
+0.9623786
+Something wrong3!!
+(8.80, -2.23, -11.23)
+Something wrong1!!
+-12.81249
+Something wrong2!!
+0.9667742
+Something wrong3!!
+(8.80, -2.63, -11.23)
+Something wrong1!!
+-12.863
+Something wrong2!!
+0.9718544
+Something wrong3!!
+(8.80, -3.02, -11.23)
+Something wrong1!!
+-12.91162
+Something wrong2!!
+0.9776084
+Something wrong3!!
+(8.80, -3.41, -11.23)
+Setting up 12 worker threads for Enlighten.
+Memory Statistics:
+[ALLOC_TEMP_TLS] TLS Allocator
+  StackAllocators : 
+    [ALLOC_TEMP_MAIN]
+      Peak usage frame count: [4.0 KB-8.0 KB]: 533 frames, [8.0 KB-16.0 KB]: 715 frames, [16.0 KB-32.0 KB]: 58 frames, [4.0 MB-8.0 MB]: 1 frames
+      Initial Block Size 4.0 MB
+      Current Block Size 7.7 MB
+      Peak Allocated Bytes 7.7 MB
+      Overflow Count 4
+    [ALLOC_TEMP_Job.Worker 18]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 16.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.PreloadManager]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 117.8 KB
+      Overflow Count 4
+    [ALLOC_TEMP_Background Job.Worker 8]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 10]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 16]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 16.4 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 6]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 4]
+      Initial Block Size 256.0 KB
+      Current Block Size 304.0 KB
+      Peak Allocated Bytes 303.3 KB
+      Overflow Count 3
+    [ALLOC_TEMP_Job.Worker 17]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 16.4 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 14]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 16.2 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 3]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 16.3 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 12]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 1]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_AssetGarbageCollectorHelper] x 23
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 5]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 13]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 11]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 2]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 16.4 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 3]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 0]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 20]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 16.4 KB
+      Overflow Count 0
+    [ALLOC_TEMP_HIDInput]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 10.8 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 11]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 16.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 4]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_BatchDeleteObjects]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 6]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 16.3 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 0]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 16.4 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 21]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 16.4 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 5]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 16.3 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 9]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 14]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 13]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 16.3 KB
+      Overflow Count 0
+    [ALLOC_TEMP_EnlightenWorker] x 12
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 15]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 2]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 7]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 22]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 16.4 KB
+      Overflow Count 0
+    [ALLOC_TEMP_UnityGfxDeviceWorker]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 34.2 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 9]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 19.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 8]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 16.4 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 7]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 16.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 1]
+      Initial Block Size 256.0 KB
+      Current Block Size 452.0 KB
+      Peak Allocated Bytes 451.7 KB
+      Overflow Count 4
+    [ALLOC_TEMP_Job.Worker 10]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 16.4 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 15]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 16.3 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 12]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 16.2 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 19]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 16.4 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.AsyncRead]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 309 B
+      Overflow Count 0
+[ALLOC_DEFAULT] Dual Thread Allocator
+  Peak main deferred allocation count 765
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 3.0 MB
+    [ALLOC_DEFAULT_MAIN]
+      Peak usage frame count: [128.0 MB-256.0 MB]: 1307 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 5
+      Peak Allocated memory 143.3 MB
+      Peak Large allocation bytes 128.1 MB
+    [ALLOC_DEFAULT_THREAD]
+      Peak usage frame count: [32.0 MB-64.0 MB]: 1306 frames, [64.0 MB-128.0 MB]: 1 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 2
+      Peak Allocated memory 73.5 MB
+      Peak Large allocation bytes 47.9 MB
+[ALLOC_TEMP_JOB_1_FRAME]
+  Initial Block Size 2.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_2_FRAMES]
+  Initial Block Size 2.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_4_FRAMES (JobTemp)]
+  Initial Block Size 2.0 MB
+  Used Block Count 4
+  Overflow Count (too large) 2
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_ASYNC (Background)]
+  Initial Block Size 1.0 MB
+  Used Block Count 3
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_GFX] Dual Thread Allocator
+  Peak main deferred allocation count 9
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 3.0 MB
+    [ALLOC_GFX_MAIN]
+      Peak usage frame count: [64.0 MB-128.0 MB]: 1306 frames, [128.0 MB-256.0 MB]: 1 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 170.9 MB
+      Peak Large allocation bytes 170.8 MB
+    [ALLOC_GFX_THREAD]
+      Peak usage frame count: [2.0 MB-4.0 MB]: 1307 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 2.8 MB
+      Peak Large allocation bytes 0 B
+[ALLOC_CACHEOBJECTS] Dual Thread Allocator
+  Peak main deferred allocation count 2
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 3.0 MB
+    [ALLOC_CACHEOBJECTS_MAIN]
+      Peak usage frame count: [16.0 MB-32.0 MB]: 1307 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 5
+      Peak Allocated memory 29.2 MB
+      Peak Large allocation bytes 11.8 MB
+    [ALLOC_CACHEOBJECTS_THREAD]
+      Peak usage frame count: [4.0 MB-8.0 MB]: 1306 frames, [8.0 MB-16.0 MB]: 1 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 3
+      Peak Allocated memory 10.5 MB
+      Peak Large allocation bytes 0 B
+[ALLOC_TYPETREE] Dual Thread Allocator
+  Peak main deferred allocation count 0
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 3.0 MB
+    [ALLOC_TYPETREE_MAIN]
+      Peak usage frame count: [0-1.0 KB]: 1307 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 1.1 KB
+      Peak Large allocation bytes 0 B
+    [ALLOC_TYPETREE_THREAD]
+      Peak usage frame count: [1.0 KB-2.0 KB]: 1306 frames, [2.0 KB-4.0 KB]: 1 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 2.2 KB
+      Peak Large allocation bytes 0 B
