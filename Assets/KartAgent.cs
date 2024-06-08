@@ -227,7 +227,7 @@ namespace KartGame.AI
             public float timescale;
         }
 
-        public void CollectObservations1(VectorSensor sensor)
+        public void CollectObservations(VectorSensor sensor)
         {
             sensor.AddObservation(m_Kart.transform.position.x);
             sensor.AddObservation(m_Kart.transform.position.y);
@@ -247,7 +247,7 @@ namespace KartGame.AI
             sensor.AddObservation(acceleration.y);
             sensor.AddObservation(acceleration.z);
         }
-        public override void CollectObservations(VectorSensor sensor)
+        public void CollectObservations1(VectorSensor sensor)
         {
             sensor.AddObservation(m_Kart.LocalSpeed());
 

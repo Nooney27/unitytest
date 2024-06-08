@@ -11,6 +11,9 @@ env.reset()
 behavior_name = list(env.behavior_specs)[0]
 
 for i in tqdm.tqdm(range(100)):
+
+    env_info = env.get_steps(behavior_name)
+    print('xpos', float(env_info[0].obs[-1][0][0]))
     actions = ActionTuple(np.array([[steer_cmd,throttle_cmd]]),None)
     env.set_actions(behavior_name, actions)
     env.step()
